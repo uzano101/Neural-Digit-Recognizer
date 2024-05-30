@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.22"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ex4_alon_uzan::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ex4_alon_uzan-Debug-566dc781172f6e3c3a72.json",
+					"jsonFile" : "target-ex4_alon_uzan-Debug-205ff2efc56fc6773fb8.json",
 					"name" : "ex4_alon_uzan",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/alon.uzan/CLionProjects/ex4-alon.uzan/cmake-build-debug",
-		"source" : "/Users/alon.uzan/CLionProjects/ex4-alon.uzan"
+		"build" : "C:/Users/alon0/ForkGit/Neural-Digit-Recognizer/cmake-build-debug",
+		"source" : "C:/Users/alon0/ForkGit/Neural-Digit-Recognizer"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 6
 	}
 }
